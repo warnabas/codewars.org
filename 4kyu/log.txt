@@ -1,0 +1,28 @@
+appending y... 3
+appending z... 4
+x: 3
+appending y... 7
+appending z... 10
+x: 4
+appending y... 9
+appending z... 13
+x: 7
+appending y... 15
+appending z... 22
+x: 10
+appending y... 21
+appending z... 31
+x: 9
+appending y... 19
+appending z... 28
+x: 13
+appending y... 27
+appending z... 40
+x: 15
+appending y... 31
+appending z... 46
+x: 22
+appending y... 45
+appending z... 67
+x: 21
+22
